@@ -5,13 +5,13 @@
 
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
+ 
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   
-  background-image: url("C:/Users/shash/OneDrive/Desktop/Hackathon Project/src/assets/w2.jpg");
+  background-image: url("src/assets/w1.jpg");
   background-size: cover;
 
   background-attachment: fixed;
