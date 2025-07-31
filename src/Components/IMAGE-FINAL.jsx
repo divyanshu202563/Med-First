@@ -1,8 +1,8 @@
 import React from 'react'
 import './IMAGE-FINAL.css'
-import I1 from "../assets/Gov IMage.svg"
+import I1 from "../assets/govimage.svg"
 import I2 from "../assets/Government_of_India_logo .svg.PNG"
-import I3 from "../assets/Gov IMage2.svg"
+import I3 from "../assets/govimage2.svg"
 
 const IMAGEFINAL = () => {
   return (
