@@ -7,7 +7,7 @@ import Ending from './Components/Ending'
 
 const App = () => {
   return (
-    <>
+    < >
       <Content1 />
       <Image />
       <Ending />

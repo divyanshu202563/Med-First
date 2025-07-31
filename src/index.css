@@ -11,7 +11,7 @@
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   
-  background-image: url("src/assets/w1.jpg");
+  background-image: url("/src/assets/w1.jpg");
   background-size: cover;
 
   background-attachment: fixed;
