@@ -1,0 +1,58 @@
+ .content1-heading{
+    font-size: 100px;
+    font-weight: 900;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-weight: 900;
+    font-style: italic;
+   
+    margin-top: 0px;
+    margin-bottom: 2px;
+    cursor:default;
+    margin-top: 3vh;
+    background-clip: text;
+    background-image: linear-gradient(to right,#0aa4dc ,#b0c815);
+    
+    color: transparent;
+    width: 100%;
+
+
+
+}
+
+
+.content1-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* centers horizontally */
+    justify-content: center;
+    width: 100%;
+    text-align: center;
+   
+
+
+}
+
+.content1-logo{
+
+    height: 80px;
+    width: 80px;
+border-radius: 50%;
+margin-bottom: -9vh;
+margin-left: -4vw;
+
+}
+
+.motto{
+    text-align: center;
+    margin-top: -10vh;
+margin-right: 7vw;
+    font-size: 20px;
+    margin-bottom: 50px;
+    cursor: default;
+    width: 100%;
+    font-weight: 700;
+    background-image: linear-gradient(to right,rgb(0, 121, 161) ,#a60095);
+    background-clip: text;
+    color: transparent;
+}

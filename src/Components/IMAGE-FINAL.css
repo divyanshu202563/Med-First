@@ -1,0 +1,24 @@
+.image--container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;    
+    justify-content: space-evenly;
+    margin-bottom: 10px;
+ 
+    
+}
+
+.image-1{
+    height: 40vh;
+    width: 40vw;
+}
+
+.image-2{
+    height: 20vh;
+    width: 20vw;
+}
+
+.image-3{
+    height: 40vh;
+    width: 40vw;
+}
